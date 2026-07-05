@@ -18,60 +18,108 @@ O avanço da Inteligência Artificial Generativa (GenAI) permitiu que cibercrimi
 
 ## 📚 2. Curadoria de Fontes
 
-Para alimentar o ecossistema de dados do NotebookLM, foi reunida uma robusta base de conhecimento composta por **41 fontes técnico-conceituais**, incluindo PDFs históricos, relatórios de ameaças globais (Threat Intelligence) e artigos científicos recentes de segurança de IA:
-
-### 🔍 Principais Destaques do Repositório:
-*   **Fundamentos Humanos:** Livros digitais *"A Arte de Enganar"* e *"A Arte de Invadir"* de Kevin Mitnick.
-*   **Frameworks de Inteligência:** Documentação oficial do MITRE ATT&CK Enterprise (Tática TA0001 - Initial Access) e CAPEC.
-*   **Relatórios Oficiais de Mercado:** *X-Force Threat Intelligence Index 2026 (IBM)*, Relatório Global da Kaspersky e guias oficiais da CISA e NSA.
-*   **Pesquisa de Ponta em IA:** Artigos do *arXiv* abordando *Jailbreaks* em LLMs e a engenharia de defesa em camadas (como o framework *TRYLOCK*).
+Para alimentar o ecossistema de dados do NotebookLM, foi reunida uma robusta base de conhecimento composta por fontes técnico-conceituais atualizadas até 2026, incluindo PDFs históricos, relatórios de ameaças globais (Threat Intelligence) e artigos científicos recentes de segurança de IA:
 
 <details>
-<summary>📂 Clique aqui para visualizar a lista completa das 40 fontes do Caderno</summary>
+<summary>📂 Clique aqui para visualizar a lista estruturada das fontes do Caderno</summary>
 
-1. 25+ Spear Phishing Examples & How to Prevent Them [URL]
-2. A Closer Look at the LAPSUS$ Data Extortion Group – Krebs on Security [URL]
-3. A_Arte_de_Enganar.pdf [PDF]
-4. A_Arte_de_invadir.pdf [PDF]
-5. Abuse of Cloud-Native Infrastructure in Modern Phishing ... - cyfirma [URL]
-6. Avoiding Social Engineering and Phishing Attacks | CISA [URL]
-7. CAPEC - Common Attack Pattern Enumeration and Classification (CAPEC™) [URL]
-8. Cartilha_de_Segurança_do_Cert.br.pdf [PDF]
-9. Comprehensive Assessment of Jailbreak Attacks Against LLMs - arXiv [URL]
-10. Daily Papers - Hugging Face [URL]
-11. Decrypting credentials from SCCM site servers configured for high availability | IBM [URL]
-12. Enterprise Tactics - MITRE ATT&CK® [URL]
-13. Estratégias Avançadas de Acesso Inicial, Engenharia Social e Evasão de Alinhamento em Modelos de Linguagem: Uma Análise de TTPs e Defesa em Multicamadas [Markdown]
-14. From LinkedIn to Tailored Attack in 30 Minutes: How AI Accelerates Target Profiling for Cybercrime [URL]
-15. Guardrails for LLMs - Arize AI [URL]
-16. Hive0145 back in German inboxes with Strela Stealer and a backdoor | IBM [URL]
-17. How to Protect Against Evolving Phishing Attacks - National Security Agency [URL]
-18. In Cyber, Differentiating Between State Actors, Criminals Is a Blur | U.S. Department of War [URL]
-19. Initial Access in Cybersecurity: The Attack Stage Most Businesses Miss | Huntress [URL]
-20. Initial Access, Tactic TA0001 - Enterprise | MITRE ATT&CK® [URL]
-21. Initial Access, Tactic TA0108 - ICS | MITRE ATT&CK® [URL]
-22. Inside Silver Fox's Den: Trustwave SpiderLabs Unmasks a Global Threat Actor [URL]
-23. Jailbreak Attacks and Defenses in Large Language Models: A Beginner-Friendly Survey [URL]
-24. Just a moment... [URL] (Verificação de segurança/acesso)
-25. LLM Jailbreak Robustness Overview - Emergent Mind [URL]
-26. MITRE ATT&CK® [URL]
-27. Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction - USENIX [PDF]
-28. North Korean Hackers Adopt Infostealer Spreading Tactics in Latest Campaign | InfoStealers [URL]
-29. Oh non! Spear phishing campaign targets users in France using their leaked data, 160K+ victims | IBM [URL]
-30. Phishing & Security Awareness Glossary [URL]
-31. Phishing Guidance: Stopping the Attack Cycle at Phase One - CISA [URL]
-32. Relatório global do Kaspersky Security Services.pdf [PDF]
-33. Resecurity | Trinity of Chaos: The LAPSUS$, ShinyHunters, and Scattered Spider Alliance [URL]
-34. Silver Fox APT Targets Public Sector via Trojanized Medical Software [URL]
-35. TRYLOCK: Defense-in-Depth Against LLM Jailbreaks via Layered Preference and Representation Engineering - arXiv [PDF]
-36. The History of Social Engineering [URL]
-37. Tracking the Expansion of ShinyHunters-Branded SaaS Data Theft | Google Cloud Blog [URL]
-38. What Is Phishing and How Can You Stop It? - Vectra AI [URL]
-39. What is MITRE ATT&CK Initial Access (TA0001)? - Netscout [URL]
-40. X-Force Threat Intelligence Index 2026.pdf [PDF]
+### 🌐 Documentos Fundamentais e Frameworks
+*   **MITRE ATT&CK® (Página Principal)**
+    *   https://attack.mitre.org/
+*   **Initial Access, Tactic TA0001 - Enterprise | MITRE ATT&CK®**
+    *   https://attack.mitre.org/tactics/TA0001/
+*   **Initial Access, Tactic TA0108 - ICS | MITRE ATT&CK®**
+    *   https://attack.mitre.org/tactics/TA0108/
+*   **Enterprise Tactics - MITRE ATT&CK®**
+    *   https://attack.mitre.org/tactics/enterprise/
+*   **CAPEC - Common Attack Pattern Enumeration and Classification (CAPEC™)**
+    *   https://capec.mitre.org/index.html
+
+### 📖 Livros e Manuais de Kevin Mitnick (Arquivos Locais)
+*   **A_Arte_de_Enganar.pdf**
+    *   *Referência técnica sobre o fator humano na segurança.*
+*   **A_Arte_de_invadir.pdf**
+    *   *Histórias reais de invasões e análise de vulnerabilidades.*
+*   **The History of Social Engineering (Mitnick Security)**
+    *   https://www.mitnicksecurity.com/resources
+
+### 📈 Inteligência de Ameaças (Threat Intelligence)
+*   **X-Force Threat Intelligence Index 2026.pdf (IBM)**
+    *   *Análise de tendências globais e abusos de credenciais de IA.*
+*   **Relatório global do Kaspersky Security Services 2026.pdf**
+    *   *Estatísticas de vetores de ataque e eficácia de detecção.*
+*   **Resecurity | Trinity of Chaos: LAPSUS$, ShinyHunters, and Scattered Spider**
+    *   *Análise de campanhas de extorsão de dados corporativos.*
+*   **Tracking the Expansion of ShinyHunters-Branded SaaS Data Theft (Google Cloud)**
+    *   https://cloud.google.com/blog/topics/threat-intelligence
+*   **From LinkedIn to Tailored Attack in 30 Minutes: How AI Accelerates Target Profiling (Trend Micro)**
+    *   https://www.trendmicro.com/vinfo/br/security/news/
+*   **Inside Silver Fox's Den: Trustwave SpiderLabs Unmasks a Global Threat Actor**
+    *   *Estudo de caso de APT focado no setor público.*
+*   **A Closer Look at the LAPSUS$ Data Extortion Group – Krebs on Security**
+    *   https://krebsonsecurity.com/
+
+### 🔬 Pesquisas Acadêmicas e IA (LLM/Jailbreak)
+*   **TRYLOCK: Defense-in-Depth Against LLM Jailbreaks (arXiv)**
+    *   *Código e avaliação de engenharia de preferência em camadas.*
+*   **Comprehensive Assessment of Jailbreak Attacks Against LLMs (arXiv)**
+    *   https://arxiv.org/abs/2404.02151 *(Ref. cruzada)*
+*   **Making Them Ask and Answer: Jailbreaking LLMs (USENIX)**
+    *   *Estudo sobre ataques DRA (Disguise and Reconstruction).*
+*   **Jailbreak Attacks and Defenses in LLMs: A Beginner-Friendly Survey (MDPI)**
+    *   https://www.mdpi.com/journal/preprints
+*   **Guardrails for LLMs - Arize AI**
+    *   https://arize.com/docs/ax
+*   **LLM Jailbreak Robustness Overview - Emergent Mind**
+    *   https://www.emergentmind.com/
+*   **Daily Papers - Hugging Face**
+    *   https://huggingface.co/papers
+
+### 🏢 Guias de Prevenção e Governamentais
+*   **Phishing Guidance: Stopping the Attack Cycle at Phase One (CISA)**
+    *   *Download e diretrizes de mitigação corporativa.*
+*   **How to Protect Against Evolving Phishing Attacks (NSA)**
+    *   *Artigo completo com frentes táticas da agência nacional de segurança.*
+*   **Cartilha de Segurança para Internet (CERT.br)**
+    *   https://cartilha.cert.br/
+*   **Avoiding Social Engineering and Phishing Attacks | CISA**
+    *   http://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks
+*   **Access Denied (CISA Advisory aa23-320a)**
+    *   http://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a
+*   **In Cyber, Differentiating Between State Actors, Criminals Is a Blur (DOW/War.gov)**
+    *   *Análise do Departamento de Defesa dos EUA.*
+
+### 🛠️ Artigos Técnicos e Estudos de Caso
+*   **Decrypting credentials from SCCM site servers (IBM X-Force)**
+    *   https://www.ibm.com/think/x-force/decrypting-credentials-from-sccm-site-servers
+*   **Oh non! Spear phishing campaign targets users in France (IBM)**
+    *   *Análise de vazamento massivo de dados e engenharia social.*
+*   **Hive0145 back in German inboxes with Strela Stealer (IBM)**
+    *   *Análise tática de campanhas ativas de infostealers.*
+*   **North Korean Hackers Adopt Infostealer Spreading Tactics (InfoStealers)**
+    *   https://www.infostealers.com/
+*   **Abuse of Cloud-Native Infrastructure in Modern Phishing (Cyfirma)**
+    *   https://www.cyfirma.com/
+*   **Silver Fox APT Targets Public Sector via Trojanized Medical Software (Picus)**
+    *   https://www.picussecurity.com/resource/tag/reports
+*   **What Is Phishing and How Can You Stop It? (Vectra AI)**
+    *   https://www.vectra.ai/research
+*   **What is MITRE ATT&CK Initial Access (TA0001)? (Netscout)**
+    *   https://www.netscout.com/learning-center
+*   **Initial Access in Cybersecurity: The Attack Stage Most Businesses Miss (Huntress)**
+    *   https://www.huntress.com/blog
+*   **25+ Spear Phishing Examples & How to Prevent Them**
+    *   *[Recurso educacional sobre engenharia de e-mail]*
+*   **Phishing & Security Awareness Glossary**
+    *   *[Dicionário corporativo de conscientização de ameaças]*
+*   **Estratégias Avançadas de Acesso Inicial... (Documento Interno)**
+    *   *Análise consolidada de TTPs e defesa em multicamadas.*
+*   **Just a moment...**
+    *   *[Referência de sistemas de verificação de segurança de acesso web]*
 
 </details>
 
+---
 ---
 
 ## 🧪 3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
