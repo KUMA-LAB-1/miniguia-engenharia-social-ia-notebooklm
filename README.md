@@ -54,8 +54,6 @@ Para alimentar o ecossistema de dados do NotebookLM, foi reunida uma robusta bas
     *   https://cloud.google.com/blog/topics/threat-intelligence
 *   **From LinkedIn to Tailored Attack in 30 Minutes: How AI Accelerates Target Profiling (Trend Micro)**
     *   https://www.trendmicro.com/vinfo/br/security/news/
-*   **Inside Silver Fox's Den: Trustwave SpiderLabs Unmasks a Global Threat Actor**
-    *   *Estudo de caso de APT focado no setor público.*
 *   **A Closer Look at the LAPSUS$ Data Extortion Group – Krebs on Security**
     *   https://krebsonsecurity.com/
 
@@ -145,8 +143,8 @@ Nesta seção está documentado o processo de refinamento das interações com o
 | **Execução (TA0002)** | User Execution (T1204) | O conceito clássico de Engenharia Social Inversa (fazer o alvo ligar para o hacker) é automatizado por chatbots inteligentes, guiando o usuário até o "Momento de Condescendência" para execução de scripts. |
 
 ### 🛠️ Cicatrizes e Solução de Problemas (Troubleshooting)
-*   **Desafio de Escopo:** Ao interagir inicialmente com o caderno de 41 fontes, percebi que perguntas muito diretas ou simples (como *"Como a IA ajuda no phishing?"*) geravam respostas corretas, porém superficiais e resumidas, sem o rigor técnico exigido na área de Cyber Security.
-*   **Como foi resolvido:** Para extrair o máximo de inteligência e precisão analítica do ecossistema, refinei a estratégia de Engenharia de Prompts. Injetei um papel de atuação explícito (*Analista Sênior de Cyber Threat Intelligence*), delimitei as fronteiras das fontes a serem cruzadas (Mitnick + MITRE) e configurei a saída em estrutura de tabela Markdown amarrada às IDs técnicas. Isso direcionou as conexões lógicas do modelo de forma robusta e evitou respostas vagas.
+*   **Desafio de Escopo:** Ao interagir inicialmente com o notebooklm junto com todas as fontes, percebi que perguntas muito diretas ou simples (como *"Como a IA ajuda no phishing?"*) geravam respostas corretas, porém superficiais e resumidas, sem o rigor técnico exigido na área de Cyber Security.
+*   **Como foi resolvido:** Para extrair o máximo de inteligência e precisão analítica do ecossistema, refinei a estratégia de Engenharia de Prompts. Injetei um papel de atuação explícito de uma persona com a mentalidade hacker de Kevin Mitnick agindo como um Analista Sênior de Cyber Threat Intelligence, delimitei as fronteiras das fontes a serem cruzadas (Mitnick + MITRE) e configurei a saída em estrutura de tabela Markdown amarrada às IDs técnicas. Isso direcionou as conexões lógicas do modelo de forma robusta e evitou respostas simples.
 
 ---
 
