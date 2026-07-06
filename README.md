@@ -1,6 +1,4 @@
 # 🛡️ Mapeamento de Engenharia Social com IA através da Matriz MITRE ATT&CK e filosofia clássica de Kevin Mitnick
-[![Licença: Direitos Reservados](https://shields.io)](LICENSE)
-[![Bootcamp: Bradesco GenAI](https://shields.io)](https://dio.me)
 
 Repositório dedicado ao desafio de projeto do **Bootcamp Bradesco - GenAI, Dados & Cyber** na plataforma DIO. Este projeto documenta a criação e os testes de um Caderno Temático no NotebookLM focado em analisar como a Inteligência Artificial Generativa industrializou ataques de Engenharia Social, mapeando essas ameaças através da matriz **MITRE ATT&CK** e integrando a filosofia clássica de **Kevin Mitnick**.
 
