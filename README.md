@@ -112,10 +112,7 @@ Para alimentar o ecossistema de dados do NotebookLM, foi reunida uma robusta bas
     *   *[Recurso educacional sobre engenharia de e-mail]*
 *   **Phishing & Security Awareness Glossary**
     *   *[Dicionário corporativo de conscientização de ameaças]*
-*   **Estratégias Avançadas de Acesso Inicial... (Documento Interno)**
-    *   *Análise consolidada de TTPs e defesa em multicamadas.*
-*   **Just a moment...**
-    *   *[Referência de sistemas de verificação de segurança de acesso web]*
+
 
 </details>
 
