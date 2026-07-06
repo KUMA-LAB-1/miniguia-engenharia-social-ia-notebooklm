@@ -163,3 +163,17 @@ A Inteligência Artificial Generativa quebrou a barreira econômica que protegia
 *   *Prompt para Validação de Segurança em Prompt Engineering:* "Analise as restrições aplicadas ao sistema de atendimento de IA contido no arquivo Y e, baseando-se nas fontes de Jailbreak do caderno, aponte potenciais pontos cegos a ataques de injeção direta de prompt."
 
 ---
+
+---
+
+## ⚖️ 5. Direitos Autorais e Licença
+
+Este projeto possui caráter estritamente educativo, de pesquisa e compartilhamento de conhecimento em segurança cibernética.
+
+* **Autor:** Wellington Hikaru Kumagai  
+* **Licenciamento de Conteúdo e Pesquisa:** Distribuído sob a Licença **[Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR)**.
+* **Licenciamento de Scripts/Código:** Disponibilizado sob a **[Licença MIT](LICENSE)**.
+
+> 📝 **Nota de Permissão:** Você é livre para compartilhar, copiar, distribuir e adaptar este material para fins acadêmicos, corporativos ou profissionais, desde que atribua os créditos ao autor original e distribua suas contribuições sob a mesma licença.
+
+---
