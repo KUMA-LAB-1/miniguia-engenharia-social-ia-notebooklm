@@ -7,11 +7,11 @@ Repositório dedicado ao desafio de projeto do **Bootcamp Bradesco - GenAI, Dado
 ## 🎯 1. Contexto e Objetivos de Estudo
 
 ### Contexto
-O avanço da Inteligência Artificial Generativa (GenAI) permitiu que cibercriminosos automatizassem e sofisticassem ataques de Phishing e Spear-Phishing, eliminando erros gramaticais comuns e gerando abordagens hiper-personalizadas baseadas em pegadas digitais. Para mitigar esse risco de forma tática e corporativa (alinhado às necessidades do setor bancário), este projeto une os conceitos fundamentais de engenharia social de **Kevin Mitnick** ao framework defensivo **MITRE ATT&CK**.
+O avanço da Inteligência Artificial Generativa (GenAI) permitiu que cibercriminosos automatizassem e sofisticassem ataques de Phishing e Spear-Phishing, eliminando erros gramaticais comuns e gerando abordagens hiperpersonalizadas baseadas em pegadas digitais. Para mitigar esse risco de forma tática e corporativa (alinhado às necessidades do setor bancário), este projeto une os conceitos fundamentais de engenharia social de **Kevin Mitnick** ao framework defensivo **MITRE ATT&CK**.
 
 ### Objetivos de Estudo
 *   **Fundamentação Histórica:** Compreender os gatilhos psicológicos da engenharia social (*Pretexting*) baseados nas obras clássicas de Kevin Mitnick.
-*   **Mapeamento Tático:** Identificar e detalhar como a IA Generativa potencializa as sub-técnicas de Acesso Inicial e Reconhecimento da matriz MITRE ATT&CK.
+*   **Mapeamento Tático:** Identificar e detalhar como a IA Generativa potencializa as subtécnicas de Acesso Inicial e Reconhecimento da matriz MITRE ATT&CK.
 *   **Estratégia de Defesa:** Investigar mecanismos avançados de proteção contra quebras de alinhamento de LLMs (*Jailbreaks*) e táticas corporativas de mitigação em camadas.
 
 ---
