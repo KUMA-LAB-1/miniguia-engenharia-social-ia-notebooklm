@@ -115,7 +115,6 @@ Para alimentar o ecossistema de dados do NotebookLM, foi reunida uma robusta bas
 </details>
 
 ---
----
 
 ## 🧪 3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
 
